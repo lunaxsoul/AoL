@@ -1,0 +1,39 @@
+Konsep game:
+
+ada 2 mode (normal and challenge)
+normal --> easy, medium, hard (no time, sorting dan file di bagian scoreboard, setiap pemain dalam satu siklus akan menyelesaikan sebanyak mungkin level sampai kalah)
+challenge --> dalam mode challenge akan ada limitasi waktu dalam pengerjaan soal.
+
+MENU
+1. Start
+2. How to play
+3. Exit
+
+How to play
+--isi rules pokoknya
+Back
+
+START
+1. Normal
+2. Challenge
+3. Scoreboard
+4. Back
+
+NORMAL
+1. easy (100 Soal)
+2. medium (100 soal)
+3. hard (100 soal)
+4. Back
+
+CHALLENGE
+1. 1 minute
+2. 5 minute
+3. 10 minute
+4. Back
+
+
+//CASE EXIT
+Thank you for playing this game!
+
+//SCOREBOARD
+--isi score"
